@@ -5,7 +5,6 @@ import {Cart} from './Pages/Cart'
 import {View} from  "./Pages/View";
 import {Order} from  './Pages/Order';
 import { CartProvider  } from './components/CartContext.jsx';
-
 import Header from './components/Header';
 import {Footer} from './components/Footer';
 
